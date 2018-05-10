@@ -1,0 +1,32 @@
+{
+  "name": "xmall",
+  "version": "1.0.0",
+  "description": "xmall server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lamborshea/xmall.git"
+  },
+  "keywords": [
+    "xmall",
+    "react.js",
+    "nodejs",
+    "vue.js",
+    "webpack",
+    "mock",
+    "webworker",
+    "pm2"
+  ],
+  "author": "Lamborshea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lamborshea/xmall/issues"
+  },
+  "homepage": "https://github.com/Lamborshea/xmall#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
